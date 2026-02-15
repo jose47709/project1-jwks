@@ -9,3 +9,6 @@ run
 //pytest test_server.py -v
 
 on another window to see the precentage 
+
+
+* see the screenshot file for the result*
