@@ -2,7 +2,7 @@ run
 
 //uvicorn server:app --host 0.0.0.0 --port 8080
 
-in one terminal wiindow to see it connect 
+in one terminal window to see it connect 
 
 run 
 
