@@ -11,4 +11,4 @@ run
 on another window to see the precentage 
 
 
-* see the screenshot file for the result*
+*** see the screenshot file for the result ***
