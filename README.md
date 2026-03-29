@@ -21,3 +21,4 @@ When testing if the .db file does not work run
 
 mv totally_not_my_privateKeys.db  totally_not_my_privateKeys.db.bak
 
+*** see the new screenshot file for the result ***
